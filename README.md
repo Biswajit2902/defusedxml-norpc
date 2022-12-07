@@ -717,7 +717,7 @@ See <https://www.python.org/psf/license> for licensing details.
 
 # Disclaimer
 
-  - [Biswajit](https://github.com/Biswajit2902) doesn't claim any ownership on this code. He just fixed package vulnerability issue for target issue
+  - [Biswajit](https://github.com/Biswajit2902) doesn't claim any ownership on this code. He just fixed package vulnerability issue for target use
 # Changelog
 
 ## defusedxml-norpc 0.0.0 (forked from 0.7.1)
