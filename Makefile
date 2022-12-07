@@ -29,7 +29,7 @@ test_inplace: inplace
 test: test_inplace
 
 black:
-	black $(CURDIR) -t 'py38'|| true
+	black $(CURDIR) -t 'py39'|| true
 
 clean:
 	@find . \( -name '*.o' -or -name '*.so' -or -name '*.sl' -or \
